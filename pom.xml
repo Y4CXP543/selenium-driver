@@ -12,7 +12,7 @@
 
     <groupId>ru.yacopsae</groupId>
     <artifactId>selenium-driver</artifactId>
-    <version>1.0.278</version>
+    <version>1.0.279</version>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
